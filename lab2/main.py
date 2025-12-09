@@ -56,8 +56,7 @@ def get_hh_vacancies(keyword, pages_count):
             print(f"Ошибка доступа: {e}")
             break
 
-        # with open("page.html", "w", encoding="utf-8") as file:
-        #     file.write(response.text)
+
         new_data = parse_vacancies_to_df(response.text)
         print(f"Найдено {len(new_data)} вакансий\n\n")
         data += new_data
