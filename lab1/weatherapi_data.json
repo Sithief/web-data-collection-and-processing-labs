@@ -1,0 +1,51 @@
+{
+    "location": {
+        "name": "Novosibirsk",
+        "region": "Novosibirsk",
+        "country": "Russia",
+        "lat": 55.0411,
+        "lon": 82.9344,
+        "tz_id": "Asia/Novosibirsk",
+        "localtime_epoch": 1765269588,
+        "localtime": "2025-12-09 15:39"
+    },
+    "current": {
+        "last_updated_epoch": 1765269000,
+        "last_updated": "2025-12-09 15:30",
+        "temp_c": -25.6,
+        "temp_f": -14.1,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 9.4,
+        "wind_kph": 15.1,
+        "wind_degree": 40,
+        "wind_dir": "NE",
+        "pressure_mb": 1035.0,
+        "pressure_in": 30.56,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 76,
+        "cloud": 0,
+        "feelslike_c": -36.0,
+        "feelslike_f": -32.8,
+        "windchill_c": -36.9,
+        "windchill_f": -34.4,
+        "heatindex_c": -26.3,
+        "heatindex_f": -15.3,
+        "dewpoint_c": -27.3,
+        "dewpoint_f": -17.1,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.3,
+        "gust_mph": 19.3,
+        "gust_kph": 31.1,
+        "short_rad": 179.18,
+        "diff_rad": 45.69,
+        "dni": 0.0,
+        "gti": 43.59
+    }
+}
